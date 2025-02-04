@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/rps/ornament.png
+  # image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : 
+      icon : ti-medall # themify icon pack : https://themify.me/themify-icons
+      content : Limestone's first all-French Immersion School, serving students in Kindergarten to Grade 6
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : 
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : One of the oldest schools in Kingston, celebrating our 100th anniversary this year!
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : 
+      icon : ti-map # themify icon pack : https://themify.me/themify-icons
+      content : Home school to a huge catchment area, serving its local community as well as areas east of Sir John A. Macdonald Boulevard, North Kingston, and the areas of Glenburnie, Elginburg, Harrowsmith, and Sydenham
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : 
+      icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content : "A very diverse school: the current student population represents the cultural diversity that makes Canada so special"
