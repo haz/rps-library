@@ -3,8 +3,13 @@ feature:
   enable : true
   image : images/rps/ornament.png
   # image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : About Us
+  content : |
+    Our staff remain focused on moving every student’s learning forward, building a stronger community between school and families, and providing opportunities for every student to thrive at Rideau, whether it is in the classroom, on the playing field, or in one of our many clubs. 
+
+    Rideau continues to demand excellence from staff and students living by our motto:
+
+    "*They Can Who Think They Can; Si on veut, on peut.*"
   feature_item : 
       # feature item loop
     - title : 

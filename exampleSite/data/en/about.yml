@@ -1,13 +1,18 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : About The Project
   content : |
-    Our staff remain focused on moving every student’s learning forward, building a stronger community between school and families, and providing opportunities for every student to thrive at Rideau, whether it is in the classroom, on the playing field, or in one of our many clubs. 
+    The Rideau school library is sorely in need of updating. 
+     - This past fall, the library lost half of its space to create a much-needed new flexible-use class area; the two spaces are separated by a curtain and the noise problem between the two spaces is intolerable.
+     - The books and resources are old and out of date; a team of volunteers recently purged over 300 books that were inappropriate, completely outdated, or falling apart.
+     - The bookshelves are small and damaged.
+     - There is nowhere in the library for students to curl up with a good book.
+     - Books for different age groups are not distinguished.
+     - The carpet is threadbare and peeling and emits a bit of an odour; the space is not inviting.
+     - There is no school librarian at the school anymore, even part-time, and the current reshelving system consists of Canadian Tire bins.   
+     - The wall art is paper cutouts of book characters the students no longer care about.
 
-    Rideau continues to demand excellence from staff and students living by our motto:
-
-    "*They Can Who Think They Can; Si on veut, on peut.*"
 
   about_item :
   # - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
