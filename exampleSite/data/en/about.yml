@@ -2,15 +2,22 @@
 about:
   enable : true
   title : About Us
+  content : |
+    Rideau is...
+     - Limestone's first all-French Immersion School, serving students in Kindergarten to Grade 6  
+     - one of the oldest schools in Kingston, celebrating our 100th anniversary this year!
+     - home school to a huge catchment area, serving its local community as well as areas east of Sir John A. Macdonald Boulevard, North Kingston, and the areas of Glenburnie, Elginburg, Harrowsmith, and Sydenham
+     - a very diverse school: the current student population represents the cultural diversity that makes Canada so special. 
+
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  # - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+  #   title : We're Creative
+  #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  # - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  #   title : We're Professional
+  #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  # - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+  #   title : We're Genius
+  #   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
