@@ -2,7 +2,7 @@
 funfacts:
   enable : true
   bg_image : "images/rps/100.png"
-  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image_webp : "images/rps/100.webp"
   counter_item:
     # counter item loop
     - title : "Students"
@@ -11,15 +11,15 @@ funfacts:
     
     # counter item loop
     - title : "Average Book Age"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
       count : "30"
     
     # counter item loop
     - title : "Years Since Updated"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-time" # themify icon pack : https://themify.me/themify-icons
       count : "50"
     
     # counter item loop
     - title : "Age of School"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+      icon : "ti-calendar" # themify icon pack : https://themify.me/themify-icons
       count : "100"
