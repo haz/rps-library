@@ -831,6 +831,10 @@ a:hover {
   padding: 0;
 }
 
+.skill-bar li {
+  margin-bottom: 26px;
+}
+
 .pricing li {
   padding: 10px 0;
 }
