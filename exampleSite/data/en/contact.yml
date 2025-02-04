@@ -10,19 +10,19 @@ contact:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "9 Dundas St, Kingston, ON, Canada. K7L 1N2"
       
-    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-    #   info : "Phone: +880-31-000-000"
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 613.572.2281"
       
     # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
     #   info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: rideau-100-library-project@googlegroups.com"
+      info : "Email: cat@catlondon.ca"
 
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
