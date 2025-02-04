@@ -1,25 +1,25 @@
 ################################# funfacts ##################################
 funfacts:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/rps/100.png"
+  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
+    - title : "Students"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+      count : "12345"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "Average Book Age"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "30"
     
     # counter item loop
-    - title : "Positive feedback"
+    - title : "Years Since Updated"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+      count : "50"
     
     # counter item loop
-    - title : "Cups of Coffee"
+    - title : "Age of School"
       icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+      count : "100"
