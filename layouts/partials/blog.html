@@ -15,7 +15,12 @@
 
 			{{/*  {{ range first 3 (where site.RegularPages "Section" "==" "blog")}}  */}}
 			{{ range first 3 (where (where site.RegularPages "Section" "==" "blog") "Params.draft" "ne" true) }}
-			{{ .Render "article"}}
+			{{/*  {{ .Render "article"}}  */}}
+			<article>
+				<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+				<p>{{ .Summary }}</p>
+				<a href="{{ .RelPermalink }}">Read more</a>
+			</article>
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
