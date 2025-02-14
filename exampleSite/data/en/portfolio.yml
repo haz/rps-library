@@ -4,20 +4,27 @@ portfolio:
   title : Our Plans
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    - name : Room inspiration
+      image : images/rps/plans/room1.png
+      # image_webp : images/portfolio/portfolio-1.webp
+      categories : ["room"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+    - name : Room inspiration
+      image : images/rps/plans/room2.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["room"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+    
+    - name : Room inspiration
+      image : images/rps/plans/room3.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["room"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
       
     # portfolio item loop
     - name : Clock Product
