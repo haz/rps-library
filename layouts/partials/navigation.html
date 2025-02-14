@@ -16,7 +16,7 @@
       </button>
 
       <div class="collapse navbar-collapse" id="navigation">
-        <ul class="navbar-nav ml-auto">
+        {{/*  <ul class="navbar-nav ml-auto">
           <!-- menu active -->
           {{ $currentPage := . }} {{ range site.Menus.main }} {{ $menuURL :=
           .URL | absLangURL }} {{ $pageURL:= $currentPage.Permalink | absLangURL
@@ -64,7 +64,7 @@
             >
           </li>
           {{ end }} {{ end }}
-        </ul>
+        </ul>  */}}
         <!-- Language List -->
         {{- if hugo.IsMultilingual }}
         <select id="select-language" onchange="location = this.value;">
