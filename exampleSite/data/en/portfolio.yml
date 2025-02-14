@@ -14,70 +14,102 @@ portfolio:
     # portfolio item loop
     - name : Room inspiration
       image : images/rps/plans/room2.png
-      image_webp : images/rps/plans/room1.webp
+      image_webp : images/rps/plans/room2.webp
       categories : ["room"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
     
     - name : Room inspiration
       image : images/rps/plans/room3.png
-      image_webp : images/rps/plans/room1.webp
+      image_webp : images/rps/plans/room3.webp
       categories : ["room"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Plans
+      image : images/rps/plans/plans.png
+      image_webp : images/rps/plans/plans.webp
+      categories : ["plans"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Art inspiration
+      image : images/rps/plans/art1.png
+      image_webp : images/rps/plans/art1.webp
+      categories : ["art"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+    
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Art inspiration
+      image : images/rps/plans/art2.png
+      image_webp : images/rps/plans/art2.webp
+      categories : ["art"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Art inspiration
+      image : images/rps/plans/art2.png
+      image_webp : images/rps/plans/art2.webp
+      categories : ["art"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+    
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Seating inspiration
+      image : images/rps/plans/seat1.png
+      image_webp : images/rps/plans/seat1.webp
+      categories : ["seating"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Seating inspiration
+      image : images/rps/plans/seat2.png
+      image_webp : images/rps/plans/seat2.webp
+      categories : ["seating"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
-      
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Shelving inspiration
+      image : images/rps/plans/shelf1.png
+      image_webp : images/rps/plans/shelf1.webp
+      categories : ["shelving"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Shelving inspiration
+      image : images/rps/plans/shelf2.png
+      image_webp : images/rps/plans/shelf2.webp
+      categories : ["shelving"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Shelving inspiration
+      image : images/rps/plans/shelf3.png
+      image_webp : images/rps/plans/shelf3.webp
+      categories : ["shelving"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Shelving inspiration
+      image : images/rps/plans/shelf4.png
+      image_webp : images/rps/plans/shelf4.webp
+      categories : ["shelving"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # portfolio item loop
+    - name : Shelving inspiration
+      image : images/rps/plans/shelf5.png
+      image_webp : images/rps/plans/shelf5.webp
+      categories : ["shelving", "seating"]
+      # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
