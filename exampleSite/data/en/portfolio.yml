@@ -6,7 +6,7 @@ portfolio:
     # portfolio item loop
     - name : Room inspiration
       image : images/rps/plans/room1.png
-      # image_webp : images/portfolio/portfolio-1.webp
+      image_webp : images/rps/plans/room1.webp
       categories : ["room"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
@@ -14,14 +14,14 @@ portfolio:
     # portfolio item loop
     - name : Room inspiration
       image : images/rps/plans/room2.png
-      # image_webp : images/portfolio/portfolio-2.webp
+      image_webp : images/rps/plans/room1.webp
       categories : ["room"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
     
     - name : Room inspiration
       image : images/rps/plans/room3.png
-      # image_webp : images/portfolio/portfolio-2.webp
+      image_webp : images/rps/plans/room1.webp
       categories : ["room"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
