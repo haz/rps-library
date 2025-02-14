@@ -44,8 +44,8 @@ portfolio:
     
     # portfolio item loop
     - name : Art inspiration
-      image : images/rps/plans/art2.png
-      image_webp : images/rps/plans/art2.webp
+      image : images/rps/plans/art3.png
+      image_webp : images/rps/plans/art3.webp
       categories : ["art"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
