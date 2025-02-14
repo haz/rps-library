@@ -9,6 +9,9 @@ description : "Our efforts to catalogue the existing books"
 
 Coming soon...
 
-## Rmoving old books
+-----
+
+
+## Removing old books
 
 ## Scanning what's on the shelf

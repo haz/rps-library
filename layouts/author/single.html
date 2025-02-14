@@ -14,7 +14,7 @@
 				<div class="content text-center">
 					<figure>
 						{{ if .Params.Image }}
-						{{ partial "image.html" (dict "Src" .Params.Image "Alt" "Blog Image" "Class" "rounded-circle img-fluid lozad") }}
+						{{ partial "image.html" (dict "Src" .Params.Image "Alt" "Blog Image" "Class" "rounded-circle img-fluid lozad" "Style" "max-width: 150px; height: auto;") }}
 						{{else if .Params.Email}}
 						<img class="rounded-circle img-fluid lozad"
 							data-src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">
