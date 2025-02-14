@@ -7,17 +7,17 @@ funfacts:
     # counter item loop
     - title : "Students"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "12345"
+      count : "428"
     
     # counter item loop
     - title : "Average Book Age"
       icon : "ti-book" # themify icon pack : https://themify.me/themify-icons
-      count : "30"
+      count : "27"
     
     # counter item loop
-    - title : "Years Since Updated"
-      icon : "ti-time" # themify icon pack : https://themify.me/themify-icons
-      count : "50"
+    # - title : "Years Since Updated"
+    #   icon : "ti-time" # themify icon pack : https://themify.me/themify-icons
+    #   count : "50"
     
     # counter item loop
     - title : "Age of School"
