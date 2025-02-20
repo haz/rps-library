@@ -2,8 +2,7 @@
 title: "Registry"
 date: 2025-02-13T14:51:12+06:00
 author: Christian Muise
-image_webp: images/rps/books.webp
-image: images/rps/books.jpg
+layout: "registry"
 description : "Our efforts to catalogue the existing books"
 ---
 
