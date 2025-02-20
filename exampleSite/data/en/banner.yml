@@ -4,7 +4,7 @@ banner:
   # bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/rps/rps.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Rideau Public School Library Renovation Project"
+  title : "Rideau 100 Library Project"
   content : ""
   button:
     enable : true
