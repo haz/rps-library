@@ -1,17 +1,25 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About The Project
+  title : A Library Legacy
   content : |
-    The Rideau school library is sorely in need of updating. 
-     - This past fall, the library lost half of its space to create a much-needed new flexible-use class area; the two spaces are separated by a curtain and the noise problem between the two spaces is intolerable.
-     - The books and resources are old and out of date; a team of volunteers recently purged over 300 books that were inappropriate, completely outdated, or falling apart.
-     - The bookshelves are small and damaged.
-     - There is nowhere in the library for students to curl up with a good book.
-     - Books for different age groups are not distinguished.
-     - The carpet is threadbare and peeling and emits a bit of an odour; the space is not inviting.
-     - There is no school librarian at the school anymore, even part-time, and the current reshelving system consists of Canadian Tire bins.   
-     - The wall art is paper cutouts of book characters the students no longer care about.
+    Rideau Public School, our local community French immersion school, is excited to celebrate its 100th anniversary this year. A group of school families and staff are working to honour the school’s legacy through the Rideau 100 Library Project, an ambitious makeover of the school's library, which has seen no major improvements in decades.
+
+    The school’s library has seen no major improvement in decades: the books are outdated and falling apart, the shelves are dinged, the walls are dingy, and the carpet is peeling. At the start of the school year, the library lost half its space to make room for a much-needed new flexible classroom space, and students have been left with a small, badly laid out space separated from the “classroom” next door by only a curtain.
+
+    Our goals include new shelving, sound baffles to solve the noise problem between the two spaces, and lots of new books to get our students, from kindergarten to grade six and from every walk of life, excited about reading. We hope to expand the library’s collection to offer a more diverse collection, including books by Indigenous authors, so students can see themselves in the book they read, as well as graphic novels, new picture books, and fiction and nonfiction.
+
+    You can be part of the Rideau 100 Library Legacy by donating, volunteering, sponsoring a book or a shelf, or spreading the word. Help us make our Rideau library dreams come true!
+    
+  # The Rideau school library is sorely in need of updating. 
+  #  - This past fall, the library lost half of its space to create a much-needed new flexible-use class area; the two spaces are separated by a curtain and the noise problem between the two spaces is intolerable.
+  #  - The books and resources are old and out of date; a team of volunteers recently purged over 300 books that were inappropriate, completely outdated, or falling apart.
+  #  - The bookshelves are small and damaged.
+  #  - There is nowhere in the library for students to curl up with a good book.
+  #  - Books for different age groups are not distinguished.
+  #  - The carpet is threadbare and peeling and emits a bit of an odour; the space is not inviting.
+  #  - There is no school librarian at the school anymore, even part-time, and the current reshelving system consists of Canadian Tire bins.   
+  #  - The wall art is paper cutouts of book characters the students no longer care about.
 
 
   about_item :
