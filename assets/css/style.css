@@ -26,7 +26,8 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  /* color: #737f8a; */
+  color: #dddfe2;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -880,7 +881,8 @@ a:hover {
   font-size: 16px;
   padding: 6px 20px;
   font-weight: 700;
-  color: #737f8a;
+  /* color: #737f8a; */
+  color: #dddfe2;
   transition: .3s all;
 }
 
@@ -1511,7 +1513,8 @@ a:hover {
 }
 
 .post-time {
-  color: #737f8a;
+  /* color: #737f8a; */
+  color: #dddfe2;
 }
 
 input#e-mail,
