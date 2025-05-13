@@ -5,7 +5,7 @@ skill:
   subtitle : What We're Raising Money For
   content : As part of the legacy of Rideau’s 100th anniversary, we want to build a new library for the students at the school and the students to come in the next 100 years!
   image : images/rps/render.png
-  total_percent : 1%
+  total_percent : 40%
   skill_item :
     # skill item loop
     - name :  Furniture & Shelving
