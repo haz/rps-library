@@ -20,6 +20,11 @@
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
+		{{ if .extra_button.enable }}
+		{{ with .extra_button }}
+		<a href="{{ .link }}" class="btn btn-transparent">{{ .label }}</a>
+		{{ end }}
+		{{ end }}
 	</div>
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}

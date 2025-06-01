@@ -8,5 +8,9 @@ banner:
   content : ""
   button:
     enable : true
-    label : "Donate"
+    label : "Donate Directly"
     link : "#contact"
+  extra_button:
+    enable : true
+    label : "Donate to Silent Auction"
+    link : http://tinyurl.com/Rideau100auction
