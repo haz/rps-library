@@ -6,11 +6,15 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Rideau 100 Library Project"
   content : ""
-  button:
+  button1:
     enable : true
     label : "Donate Directly"
     link : "#contact"
-  extra_button:
+  button2:
+    enable : true
+    label : "Donate via Wishlist"
+    link : http://tinyurl.com/Rideau100Wishlist
+  button3:
     enable : true
     label : "Donate to Silent Auction"
     link : http://tinyurl.com/Rideau100auction
