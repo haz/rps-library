@@ -113,3 +113,15 @@ portfolio:
       categories : ["shelving", "seating"]
       # content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
+
+    - name : Divider
+      image : images/rps/plans/whall.png
+      image_webp : images/rps/plans/whall.webp
+      categories : ["room"]
+      link : "#"
+    
+    - name : Stage Area
+      image : images/rps/plans/stage-area.jpeg
+      image_webp : images/rps/plans/stage-area.webp
+      categories : ["plans"]
+      link : "#"
