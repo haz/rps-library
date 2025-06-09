@@ -14,7 +14,3 @@ banner:
     enable : true
     label : "Donate via Wishlist"
     link : http://tinyurl.com/Rideau100Wishlist
-  button3:
-    enable : true
-    label : "Donate to Silent Auction"
-    link : http://tinyurl.com/Rideau100auction
