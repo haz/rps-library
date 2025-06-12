@@ -9,7 +9,7 @@ banner:
   button1:
     enable : true
     label : "Donate Directly"
-    link : "#contact"
+    link : "https://rhinoswear.ca/products/donate-to-rideau-library-renovation"
   button2:
     enable : true
     label : "Donate via Wishlist"
